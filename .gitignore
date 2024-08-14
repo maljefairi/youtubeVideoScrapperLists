@@ -1,8 +1,9 @@
 # Ignore .env file
 .env
 
-# Ignore all .txt files
+# Ignore all .txt files except requirements.txt
 *.txt
+!requirements.txt
 
 # Ignore .venv folder
 .venv
@@ -15,3 +16,6 @@ downloaded_videos/
 
 # Ignore output folder
 output/
+
+# Ignore all .csv files
+*.csv
