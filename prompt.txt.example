@@ -1,0 +1,10 @@
+For the YouTube video at {video_url}, provide:
+1. A detailed transcript of the video content.
+2. A concise summary of the main points discussed in 3-5 sentences.
+
+Format the output as follows:
+TRANSCRIPT:
+[Detailed transcript here]
+
+SUMMARY:
+[3-5 sentence summary here]

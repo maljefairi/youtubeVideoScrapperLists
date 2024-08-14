@@ -1,0 +1,17 @@
+# Ignore .env file
+.env
+
+# Ignore all .txt files
+*.txt
+
+# Ignore .venv folder
+.venv
+
+# ignore output file
+output.csv
+
+# Ignore downloaded_videos folder
+downloaded_videos/
+
+# Ignore output folder
+output/
